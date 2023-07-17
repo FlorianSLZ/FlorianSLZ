@@ -5,7 +5,7 @@
 
 ## 👋 Hi, I am Florian Salzmann
 
-... a Microsoft MVP & Cloud Consultant in Switzerland and run the blog [scloud.work](https://scloud.work/en).
+... a Microsoft MVP & Cloud Consultant in Switzerland and I run the blog [scloud.work](https://scloud.work/en).
 
 My primarily work area is with the Microsoft Cloud platforms with a strong focus on Endpoint Management (Intune). I started working in IT years ago in 2012 and love any excuse to create a PowerShell script. My blog scloud.work is the place where I share my ideas and solutions to common problems in the modern workplace.
 
