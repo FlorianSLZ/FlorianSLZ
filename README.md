@@ -7,7 +7,7 @@
 
 ... a Microsoft MVP & Cloud Consultant in Switzerland and I run the blog [scloud.work](https://scloud.work/en).
 
-My primarily work area is with the Microsoft Cloud platforms with a strong focus on Endpoint Management (Intune). I started working in IT years ago in 2012 and love any excuse to create a PowerShell script. My blog scloud.work is the place where I share my ideas and solutions to common problems in the modern workplace.
+My primary work area is with the Microsoft Cloud platforms with a strong focus on Endpoint Management (Intune). I started working in IT in 2012 and love any excuse to create a PowerShell script. My blog scloud.work is the place where I share my ideas and solutions to common problems in the modern workplace.
 
 </td><td valign="top" width="25%">
 
@@ -16,6 +16,6 @@ My primarily work area is with the Microsoft Cloud platforms with a strong focus
 - Microsft Intune
 - PowerShell
 - MS Defender (pick one) 
-- SmartHome with Home Assisatnt
+- SmartHome with Home Assistant
 
 </tr></tr></table> 
