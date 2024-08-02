@@ -1,8 +1,6 @@
-<h1 align="center"><b>Hi, I am Florian Salzmann </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi, I am Florian Salzmann <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Tech+Entusiast..;Travel+Lover..;Cloud+Consultant..;Microsoft+MVP..;Community+Contributor..;and+Love+to+learn+new+stuff!)](https://git.io/typing-svg)
-</p>
 
 ... I also run the blog [scloud.work](https://scloud.work/en).
 
